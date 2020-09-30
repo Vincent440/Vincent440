@@ -2,7 +2,7 @@
 
 ## Web developer & Software Engineer
 
- * ![Twitter Vincent Shury](https://img.shields.io/twitter/url?label=Follow%20On%20Twitter&logo=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FVincentShury)
+ * [![Twitter Badge](https://img.shields.io/badge/-Vincent_Shury-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/VincentShury)](https://twitter.com/VincentShury)
 
  * [![Linkedin Badge](https://img.shields.io/badge/-Vincent_Shury-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vincent-shury/)](https://www.linkedin.com/in/vincent-shury/)
 
