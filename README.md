@@ -1,10 +1,12 @@
-# Vincent Shury 🆚
+<h1 align="center">Vincent Shury 🆚</h1>
 
-## Web developer & Software Engineer
+<h2 align="center">Web developer & Software Engineer</h2>
+
 
  [![Linkedin Badge](https://img.shields.io/badge/-Vincent_Shury-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vincent-shury/)](https://www.linkedin.com/in/vincent-shury/)
 
 ---
+
 ### About
 
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire: | React	:atom:
@@ -15,7 +17,9 @@
 
 ---
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Vincent440&show_icons=true)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Vincent440&show_icons=true" alt="github stats" >
+</p>
 
 ---
 
