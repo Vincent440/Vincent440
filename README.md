@@ -36,6 +36,6 @@ I have created a couple fun projects while learning web development feel free to
 <strong>Currently seeking employment opportunities
 </strong></p>
 
-View [Vincent's Portfolio](www.vshury.com)
+View [Vince's Portfolio](www.vshury.com)
 
 Feel free to [follow me on twitter](https://twitter.com/VincentShury) and [Connect on LinkedIn](https://www.linkedin.com/in/vincent-shury/)
