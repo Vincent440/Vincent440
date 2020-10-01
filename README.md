@@ -9,7 +9,7 @@
 
 ### About
 
--  **Learning :** Full-Stack Development :zap: | Open-Source :fire: | React	:atom: | Zoom :
+-  **Learning :** Full-Stack Development :zap: | Open-Source :fire: | React	:atom: | Zoom
 -  **Languages :** JavaScript , Node.js, HTML, CSS 
 -  **Hobbies :** Motorcycling 🏍️, Camping🏕️, Hiking 🥾, & Music :headphones:
 -  **Fact :** Breaking things quick, and fixing them faster :heart: 
