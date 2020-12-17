@@ -35,9 +35,6 @@ I have created a couple fun projects while learning web development feel free to
 <p align="center">
 <strong>Currently seeking employment opportunities
 </strong></p>
-## Author
-
-**Vincent Shury**, <small>Full-stack web developer</small>
 
 - [vshury.com](https://vshury.com/) Portfolio
 - [![Linkedin Badge](https://img.shields.io/badge/-Vincent_Shury-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vincent-shury/)](https://www.linkedin.com/in/VincentShury/)
