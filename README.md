@@ -3,7 +3,7 @@
 <h2 align="center">Web developer & Software Engineer</h2>
 
 
- [![Linkedin Badge](https://img.shields.io/badge/-Vincent_Shury-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vincent-shury/)](https://www.linkedin.com/in/vincent-shury/)
+ [![Linkedin Badge](https://img.shields.io/badge/-Vincent_Shury-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vincent-shury/)](https://www.linkedin.com/in/VincentShury/)
 
 ---
 
@@ -36,6 +36,6 @@ I have created a couple fun projects while learning web development feel free to
 <strong>Currently seeking employment opportunities
 </strong></p>
 
-View [Vince's Portfolio](www.vshury.com)
+- [vshury.com](https://www.vshury.com) Personal Portfolio with resume and current projects.
 
-Feel free to [follow me on twitter](https://twitter.com/VincentShury) and [Connect on LinkedIn](https://www.linkedin.com/in/vincent-shury/)
+- [@VincentShury](https://twitter.com/VincentShury) on Twitter
