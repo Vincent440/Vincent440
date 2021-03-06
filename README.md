@@ -1,9 +1,6 @@
 <h1 align="center">Vince Shury 🆚</h1>
 
-<h2 align="center">Web developer & Software Engineer</h2>
-
-
- [![Linkedin Badge](https://img.shields.io/badge/-Vincent_Shury-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vincent-shury/)](https://www.linkedin.com/in/VincentShury/)
+<h2>Web developer & Software Engineer</h2>
 
 ---
 
@@ -12,7 +9,7 @@
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire: | React	:atom: | Zoom
 -  **Languages :** JavaScript , Node.js, HTML, CSS 
 -  **Hobbies :** Motorcycling 🏍️, Camping🏕️, Hiking 🥾, & Music :headphones:
--  **Fact :** Breaking things quick, and fixing them faster :heart: 
+-  **Fact :** I like fixing things and improving on existing solutions. 
 -  **Organization :** coding-boot-camp
 
 Hi my name is Vincent, I usually go by Vince.
