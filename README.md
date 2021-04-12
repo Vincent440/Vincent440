@@ -49,3 +49,7 @@ I have created a couple fun projects while learning web development feel free to
 - [vshury.com](https://www.vshury.com/) Portfolio
 - [![Linkedin Badge](https://img.shields.io/badge/-Vincent_Shury-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vincent-shury/)](https://www.linkedin.com/in/VincentShury/)
 - [@VincentShury](https://twitter.com/VincentShury) Twitter
+
+---
+
+*Thanks to [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) for the GitHub stats and Top languages cards on my GitHub Profile!*
