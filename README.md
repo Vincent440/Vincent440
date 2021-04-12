@@ -1,5 +1,7 @@
 <h1 align="center">Vince Shury 🆚</h1>
 
+<br>
+
 <h2>Web developer & Software Engineer</h2>
 
 ---
@@ -18,20 +20,31 @@ Skilled in full stack web development currently using the MERN/[PERN](https://ww
 
 I have created a couple fun projects while learning web development feel free to check them out on my GitHub profile. :thumbsup:
 
+<br>
 
 ---
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Vincent440&show_icons=true" alt="github stats" >
-</p>
+<br>
+
+<div>
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vincent440&show_icons=true&theme=dark&include_all_commits=true" alt="github stats" >
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vincent440&layout=compact&theme=dark" alt="Top Languages" >
+
+</div>
+
+<br>
 
 ---
 
 
 
-<p align="center">
-<strong>Currently seeking employment opportunities
-</strong></p>
+<h3 align="center">
+  <strong>
+    Currently seeking employment opportunities
+  </strong>
+</h3>
 
 - [vshury.com](https://www.vshury.com/) Portfolio
 - [![Linkedin Badge](https://img.shields.io/badge/-Vincent_Shury-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vincent-shury/)](https://www.linkedin.com/in/VincentShury/)
