@@ -17,11 +17,10 @@
 -  **Languages :** JavaScript , Node.js, HTML, CSS 
 -  **Hobbies :** Motorcycling 🏍️, Camping🏕️, Hiking 🥾, & Music :headphones:
 -  **Fact :** I like fixing things and improving on existing solutions. 
--  **Organization :** coding-boot-camp
+-  **Organization :** coding-boot-camp + Fisecal
 
 Hi my name is Vincent, I usually go by Vince.
-I'm currently employed remotely as a teaching assistant at the MSU Coding Boot Camp teaching full stack web development in the [MERN stack](https://www.educative.io/edpresso/what-is-mern-stack). 
-Skilled in full stack web development currently using the MERN/[PERN](https://www.geeksforgeeks.org/what-is-pern-stack/) stack and Googling what I need to learn to get the job done. :shrug: 
+Full stack web developer who enjoys working with React and Node.js projects.
 
 I have created a couple fun projects while learning web development feel free to check them out on my GitHub profile. :thumbsup:
 
