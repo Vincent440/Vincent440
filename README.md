@@ -1,6 +1,5 @@
 <h1 align="center">
   Vince Shury 🆚
-  
 </h1>
 
 &nbsp;
