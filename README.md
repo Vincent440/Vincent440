@@ -16,7 +16,6 @@
 -  **Languages :** JavaScript , Node.js, HTML, CSS 
 -  **Hobbies :** Motorcycling 🏍️, Camping🏕️, Hiking 🥾, & Music :headphones:
 -  **Fact :** I like fixing things and improving on existing solutions. 
--  **Organization :** coding-boot-camp + Fisecal
 
 Hi my name is Vincent, I usually go by Vince.
 Full stack web developer who enjoys working with React and Node.js projects.
@@ -40,14 +39,6 @@ I have created a couple fun projects while learning web development feel free to
 &nbsp;
 
 ---
-
-
-
-<h3 align="center">
-  <strong>
-    Currently seeking employment opportunities
-  </strong>
-</h3>
 
 &nbsp;
 
